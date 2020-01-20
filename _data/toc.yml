@@ -38,9 +38,9 @@
   external: true
 
 # Adds a searchbar link
-- title: Search
-  search: true
-  not_numbered: true
+#- title: Search
+#  search: true
+#  not_numbered: true
 
 # Divider for meta-pages and content page
 - divider: true
@@ -65,6 +65,6 @@
 - divider: true
 - header: Assignments
 
-- title: "Assignment 1"
+- title: Assignment 1
   url: assignment1
   not_numbered: true
