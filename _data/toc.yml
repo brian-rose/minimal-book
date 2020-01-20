@@ -62,9 +62,9 @@
 - title: Lecture 1
   url: /courseware/Lecture01
 
-#- divider: true
-#- header: Assignments
+- divider: true
+- header: Assignments
 
 - title: Assignment 1
   url: assignment1
-  not_numbered: true
+  #not_numbered: true
