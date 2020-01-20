@@ -66,5 +66,5 @@
 - header: Assignments
 
 - title: Assignment 1
-  url: assignment1
-  #not_numbered: true
+  url: /assignment1
+  not_numbered: true
