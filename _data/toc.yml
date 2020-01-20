@@ -28,9 +28,14 @@
 
 # External link
 - title: GitHub repository
-  url: https://github.com/jupyter/jupyter-book
+  url: https://github.com/brian-rose/minimal-book
   external: true
   not_numbered: true
+
+- title: "Brian's Homepage"
+  url: http://www.atmos.albany.edu/facstaff/brose/index.html
+  not_numbered: true
+  external: true
 
 # Adds a searchbar link
 #- title: Search
@@ -40,7 +45,13 @@
 - divider: true
 
 # Add a header and sample content section
-- header: Demo textbook
+- header: Preamble
+- title: Introduction
+  url: /intro_2
+  not_numbered: true
+- title: "About This Book"
+  url: /about_this_book
+  not_numbered: true
 
 # A chapter w/ a collection of sections beneath it
 - title: Features and customization
