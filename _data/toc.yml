@@ -48,11 +48,11 @@
 #- header: Preamble
 
 - title: Introduction
-  url: /intro_2
+  url: /intro-2
   not_numbered: true
 
 - title: About This Book
-  url: /about_this_book
+  url: /about-this-book
   not_numbered: true
 
 # A chapter w/ a collection of sections beneath it
