@@ -32,7 +32,7 @@
   external: true
   not_numbered: true
 
-- title: "Brian's Homepage"
+- title: Brian's Homepage
   url: http://www.atmos.albany.edu/facstaff/brose/index.html
   not_numbered: true
   external: true
@@ -47,10 +47,11 @@
 # Add a header and sample content section
 #- header: Preamble
 
-- url: /intro_2
+- title: Introduction
+  url: /intro_2
   not_numbered: true
 
-- title: "About This Book"
+- title: About This Book
   url: /about_this_book
   not_numbered: true
 
