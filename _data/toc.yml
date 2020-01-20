@@ -45,10 +45,11 @@
 - divider: true
 
 # Add a header and sample content section
-- header: Preamble
-- title: Introduction
-  url: /intro_2
+#- header: Preamble
+
+- url: /intro_2
   not_numbered: true
+
 - title: "About This Book"
   url: /about_this_book
   not_numbered: true
